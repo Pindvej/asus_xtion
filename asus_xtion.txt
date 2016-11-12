@@ -1,2 +1,3 @@
 asus xtion camera test
-new camera
+new camera test
+
